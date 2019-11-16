@@ -1,5 +1,5 @@
 ---
-description: This is my work log of learning the ML
+description: This is my work log of learning
 ---
 
 # Introduction
