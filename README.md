@@ -2,7 +2,5 @@
 
 ## Udacity Data Engineer Nanodegree
 
-{% page-ref page="udacity-data-engineer-nanodegree/tasks-progress.md" %}
-
-
+DE [Tasks Progress](udacity-data-engineer-nanodegree/tasks-progress.md)
 
